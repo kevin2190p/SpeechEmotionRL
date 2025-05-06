@@ -3,17 +3,17 @@ This is an open-source project for Speech Emotion Recognition using reinforcemen
 
 
 How to Use:
-1. Install Dependencies
+1. Install Dependencies:
 Run the following script to install the required libraries:
 python install_dependencies.py
 
 2. Update the necessary path name 
 
-3. Run the Pipeline
+3. Run the Pipeline:
 Execute the full emotion recognition pipeline:
 python main.py
 
-4. Access the Web Interface
+4. Access the Web Interface:
 After the pipeline completes, a web app will launch at:
 http://127.0.0.1:5000
 
