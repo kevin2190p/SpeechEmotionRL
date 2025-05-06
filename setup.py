@@ -1,0 +1,57 @@
+from setuptools import setup, find_packages
+import os
+
+setup(
+    name='SpeechEmotionRL',
+    version='0.1.0',
+    packages=find_packages(),
+    install_requires=[
+        'librosa',
+        'stable-baselines3[extra]',
+        'torch',
+        'torchaudio',
+        'scikit-learn',
+        'matplotlib',
+        'numpy',
+        'tqdm',
+        'gymnasium',
+        'sb3-contrib',
+        'transformers',
+        'shap',
+        'shimmy',
+        'optuna',
+        'speechrecognition',
+        'pandas',
+        'seaborn',
+        'ffmpeg-python',
+        'pydub',
+        'werkzeug',
+        'Pillow',
+        'Flask'
+    ],
+    entry_points={
+        'console_scripts': [
+            'SpeechEmotionRL=Classes/Main/main.py',  
+        ],
+    },
+    author='Kevin',
+    author_email='kevin21.90p@gmail.com',  
+    description='A Reinforcement Learning project for Speech Emotion Recognition',
+    long_description=open('README.md').read() if os.path.exists('README.md') else '',
+    long_description_content_type='text/markdown',
+    url='https://github.com/kevin2190p/SpeechEmotionRL.git',
+    license='The Unlicense',
+    classifiers=[
+        'Development Status :: 3 - Alpha',
+        'Intended Audience :: Developers',
+        'License :: OSI Approved :: The Unlicense (Unlicense)',
+        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.7',
+        'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
+        'Programming Language :: Python :: 3.10',
+        'Programming Language :: Python :: 3.11',
+        'Programming Language :: Python :: 3.12',
+    ],
+    python_requires='>=3.7',
+)
