@@ -1,4 +1,4 @@
-Speech Emotion Recognition Pipeline
+# Speech Emotion Recognition 
 This is an open-source project for Speech Emotion Recognition using reinforcement learning with custom emotion environment and audio feature extraction. It includes training, validation, model explainability, and a simple web interface for testing.
 
 
