@@ -7,8 +7,8 @@
 ---
 
 ### 👥 Authors & Team
-* [Kevin Lee](https://www.linkedin.com/in/lee-kevin-a87412202/)
-* [Chen Zhun Lee](https://www.linkedin.com/in/chen-zhun-lee-8b79b5276/)
+* [**Kevin Lee**](https://www.linkedin.com/in/lee-kevin-a87412202/)
+* [**Chen Zhun Lee**](https://www.linkedin.com/in/chen-zhun-lee-8b79b5276/)
 
 ### 🎓 Project Advisor
 
