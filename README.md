@@ -1,7 +1,7 @@
 # Adaptive Speech Emotion Recognition Via Reinforcement Learning
 ### 🌐 Project Hub
 * [▶️ View the Live Demo](https://your-demo-link.com) 
-* [🖼️ View the Poster (PDF)](https://drive.google.com/file/d/1dnG6UGf4Tt8AZ4qfSjQIBDNX0rr7JRAB/view?usp=drive_link)
+* [🖼️  View the Poster (PDF)](https://drive.google.com/file/d/1dnG6UGf4Tt8AZ4qfSjQIBDNX0rr7JRAB/view?usp=drive_link)
 * [</> Explore the Project on GitHub](https://github.com/kevin2190p/SpeechEmotionRL)
 
 ---
