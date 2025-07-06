@@ -16,7 +16,7 @@
 * **Department:** Department of Computer Science and Data Science, FOCS (TARUMT)
 * **Research Interests:** Machine Learning, Natural Language Processing, Generative AI
 
-[**View Google Scholar Profile**](https://scholar.google.com/citations?user=dG1YmzYAAAAJ&hl=en)
+[*View Google Scholar Profile*](https://scholar.google.com/citations?user=dG1YmzYAAAAJ&hl=en)
 ---
 
 ---
