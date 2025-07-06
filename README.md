@@ -10,7 +10,7 @@
 * [Kevin Lee](https://www.linkedin.com/in/lee-kevin-a87412202/)
 * [Chen Zhun Lee](https://www.linkedin.com/in/chen-zhun-lee-8b79b5276/)
 
-### Project Advisor
+### 🎓 Project Advisor
 
 **Dr. Siew Mooi Lim**
 * **Title:** Assistant Professor
