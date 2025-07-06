@@ -9,17 +9,14 @@
 ### 👥 Authors & Team
 * [Kevin Lee](https://www.linkedin.com/in/lee-kevin-a87412202/)
 * [Chen Zhun Lee](https://www.linkedin.com/in/chen-zhun-lee-8b79b5276/)
-### **Project Advisor**
+### Project Advisor
 
 **Dr. Lim Siew Mooi**
-*Assistant Professor*
-*Department of Computer Science and Data Science*
-*Faculty of Computing and Information Technology (FOCS), TARUMT*
-
-**Research Interests:** Machine Learning, Natural Language Processing, Generative AI
+* **Title:** Assistant Professor
+* **Department:** Department of Computer Science and Data Science, FOCS (TARUMT)
+* **Research Interests:** Machine Learning, Natural Language Processing, Generative AI
 
 [**View Google Scholar Profile**](https://scholar.google.com/citations?user=dG1YmzYAAAAJ&hl=en)
-
 ---
 
 ---
