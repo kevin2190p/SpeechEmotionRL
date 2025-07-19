@@ -2,17 +2,12 @@
 
 ### Adaptive Speech Emotion Recognition via Reinforcement Learning
 * ▶️ [**View the Live Demo**](link-to-your-demo)
-* 📄 [**Read the Project Summary (PDF)**](link-to-your-summary.pdf)
 * 🖼️ [**View the Poster (PDF)**](link-to-your-poster.pdf)
 * </> [**Explore the Project on GitHub**](https://github.com/kevin2190p/SpeechEmotionRL)
 
 ---
 
 ### Smart_IrriGO
-* ▶️ [**View the Live Demo**](link-to-smart-irrigo-demo)
-* 📄 [**Read the Project Summary (PDF)**](link-to-smart-irrigo-summary.pdf)
-* 🖼️ [**View the Poster (PDF)**](link-to-smart-irrigo-poster.pdf)
-* </> [**Explore the Project on GitHub**](link-to-smart-irrigo-github)
 
 ---
 
