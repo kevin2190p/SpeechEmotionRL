@@ -13,7 +13,7 @@
 ### 🎓 Project Advisor
 
 **Dr. Siew Mooi Lim**
-* **Title:** Assistant Professor
-* **Department:** Department of Computer Science and Data Science, FOCS (TARUMT)
-* **Research Interests:** Machine Learning, Natural Language Processing, Generative AI
-* **Profile:** [**Google Scholar**](https://scholar.google.com/citations?user=dG1YmzYAAAAJ&hl=en)
+* Assistant Professor
+* Department of Computer Science and Data Science, FOCS (TARUMT)
+* *Research Interests:** Machine Learning, Natural Language Processing, Generative AI
+* [**Google Scholar**](https://scholar.google.com/citations?user=dG1YmzYAAAAJ&hl=en)
