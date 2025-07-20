@@ -8,6 +8,9 @@
 ---
 
 ### 2. Smart_IrriGO
+* ▶️ [**View the Live Demo**](link-to-your-demo)
+* 🖼️ [**View the Poster (PDF)**](https://github.com/mingzheYeoh/Intelligent_Irrigation_System/blob/main/Irrigation%20System%20Poster.pdf)
+* </> [**Explore the Project on GitHub**](https://github.com/kevin2190p/SpeechEmotionRL)
 
 ---
 
