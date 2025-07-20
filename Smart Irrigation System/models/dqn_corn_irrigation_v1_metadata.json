@@ -1,0 +1,15 @@
+{
+    "learning_rate": 0.0001,
+    "final_lr": 5.987369392383786e-05,
+    "buffer_size": 10000,
+    "exploration_steps": 10000,
+    "initial_eps": 1.0,
+    "final_eps": 0.05,
+    "gamma": 0.99,
+    "training_time": 105.61976027488708,
+    "total_timesteps": 100000,
+    "version": 1,
+    "model_type": "dqn",
+    "timestamp": "2025-04-23T18:38:40.618324",
+    "model_path": "./models/dqn_corn_irrigation_v1.zip"
+}

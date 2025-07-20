@@ -1,0 +1,12 @@
+gymnasium 
+pandas 
+numpy 
+matplotlib 
+scikit-learn 
+stable-baselines3[extra]
+torch
+seaborn
+IPython
+tensorboard
+tensorflow
+keras

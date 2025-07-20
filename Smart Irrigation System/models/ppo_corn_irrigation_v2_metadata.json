@@ -1,0 +1,17 @@
+{
+    "learning_rate": 0.0003,
+    "final_lr": 0.000285,
+    "n_steps": 2048,
+    "batch_size": 64,
+    "n_epochs": 10,
+    "gamma": 0.99,
+    "gae_lambda": 0.95,
+    "clip_range": 0.2,
+    "ent_coef": 0.0,
+    "training_time": 12.219635725021362,
+    "total_timesteps": 10000,
+    "version": 2,
+    "model_type": "ppo",
+    "timestamp": "2025-04-25T12:23:19.499170",
+    "model_path": "./models/ppo_corn_irrigation_v2.zip"
+}

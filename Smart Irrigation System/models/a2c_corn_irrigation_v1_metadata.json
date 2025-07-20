@@ -1,0 +1,16 @@
+{
+    "learning_rate": 0.0007,
+    "final_lr": 0.00041911585746686505,
+    "gamma": 0.99,
+    "n_steps": 8,
+    "ent_coef": 0.01,
+    "vf_coef": 0.5,
+    "seed": 42,
+    "training_time": 230.2728099822998,
+    "total_timesteps": 100000,
+    "best_reward": 998.4324977166254,
+    "version": 1,
+    "model_type": "a2c",
+    "timestamp": "2025-04-23T20:58:39.798870",
+    "model_path": "./models/a2c_corn_irrigation_v1.zip"
+}
