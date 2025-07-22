@@ -1,8 +1,7 @@
 # 🌐 Project Hub
 
 ### 1. Adaptive Speech Emotion Recognition via Reinforcement Learning
-* ▶️ [**View the Live Demo**](link-to-your-demo)
-* 🖼️ [**View the Poster (PDF)**](link-to-your-poster.pdf)
+* 🖼️ [**View the Poster (PDF)**]([link-to-your-poster.pdf](https://github.com/kevin2190p/Speech_Emotion-and-Smart_IrriGO/blob/main/Speech%20Emotion%20Poster%20-%20Lee%20Kevin%20%26%20Lee%20Chen%20Zhun.pdf))
 * </> [**Explore the Project on GitHub**](https://github.com/kevin2190p/SpeechEmotionRL)
 
 ---
