@@ -1,0 +1,24 @@
+[project]
+name = "netflix"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "gensim>=4.3.2",
+    "ipykernel>=6.30.0",
+    "kmodes>=0.12.2",
+    "matplotlib>=3.10.3",
+    "nltk>=3.9.1",
+    "numpy==1.26.4",
+    "plotly>=6.2.0",
+    "polars>=1.31.0",
+    "pyarrow>=21.0.0",
+    "pyldavis>=3.4.1",
+    "python-ternary>=1.0.8",
+    "scikit-learn>=1.7.1",
+    "scipy<1.13",
+    "seaborn>=0.13.2",
+    "tabulate>=0.9.0",
+    "wordcloud>=1.9.4",
+]

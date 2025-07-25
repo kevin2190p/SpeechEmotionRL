@@ -1,7 +1,7 @@
 # 🌐 Project Hub
 
 ### 1. Adaptive Speech Emotion Recognition via Reinforcement Learning
-* 🖼️ [**View the Poster (PDF)**]([link-to-your-poster.pdf](https://github.com/kevin2190p/Speech_Emotion-and-Smart_IrriGO/blob/main/Speech%20Emotion%20Poster%20-%20Lee%20Kevin%20%26%20Lee%20Chen%20Zhun.pdf))
+* 🖼️ [**View the Poster (PDF)**](https://github.com/kevin2190p/Speech_Emotion-and-Smart_IrriGO/blob/main/Speech%20Emotion%20Poster%20-%20Lee%20Kevin%20%26%20Lee%20Chen%20Zhun.pdf)
 * </> [**Explore the Project on GitHub**](https://github.com/kevin2190p/SpeechEmotionRL)
 
 ---
@@ -13,6 +13,9 @@
 
 ---
 
+### 3. Netflix Shows Analysis
+* To Be Updated
+
 ## 👥 Authors & Team
 
 ### 1. Adaptive Speech Emotion Recognition via Reinforcement Learning
@@ -22,6 +25,11 @@
 ### 2. Smart_IrriGO
 * [**Ming Zhe Yeoh**](https://www.linkedin.com/in/ming-zhe-yeoh-517623304/) (mingzhe030228@gmail.com)
 * [**Shu Han Wong**](https://www.linkedin.com/in/wong-shu-han-80929124b/) (shuhan040711@gmail.com)
+
+### 3. Netflix Shows Analysis
+* [**Chok Xue Kang**](https://www.linkedin.com/in/xue-kang-chok-069a88355/)
+* [**Choo Qi Xiang**](https://www.linkedin.com/in/qi-xiang-choo-606544351/)
+* [**Chan Hui Ying**](https://www.linkedin.com/)
 
 ---
 
