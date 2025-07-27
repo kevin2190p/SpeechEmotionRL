@@ -30,7 +30,7 @@
 * [**Ming Zhe Yeoh**](https://www.linkedin.com/in/ming-zhe-yeoh-517623304/) 
 * [**Shu Han Wong**](https://www.linkedin.com/in/wong-shu-han-80929124b/) 
 
-### 3. Netflix Shows Analysis
+### 3. Unveiling Patterns in Movies and TV Shows on Netflix: A Clustering-Based Analysis 
 * [**Chok Xue Kang**](https://www.linkedin.com/in/xue-kang-chok-069a88355/)
 * [**Choo Qi Xiang**](https://www.linkedin.com/in/qi-xiang-choo-606544351/)
 * [**Chan Hui Ying**](https://www.linkedin.com/)
