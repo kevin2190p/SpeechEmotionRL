@@ -1,6 +1,6 @@
 # 🌐 Project Hub
 
-### Project business card (link-to-your-card)
+### Project business card
 
 ### 1. Adaptive Speech Emotion Recognition via Reinforcement Learning
 * ▶️ [**View the Live Demo**]([link-to-your-demo](https://drive.google.com/file/d/17rmNZwmWLskcx-rQ4crFgactJSqYY_TC/view?usp=sharing))
