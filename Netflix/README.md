@@ -1,4 +1,4 @@
-# A Clustering Based Approach To Analyse a Dataset on Netflix Shows
+# Unveiling Patterns in Movies and TV Shows on Netflix: A Clustering-Based Analysis
 
 ## Setup
 The project environment is managed using uv.
