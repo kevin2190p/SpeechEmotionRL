@@ -17,7 +17,8 @@
 ---
 
 ### 3. Unveiling Patterns in Movies and TV Shows on Netflix: A Clustering-Based Analysis 
-* To Be Updated
+* </> [**Explore the Project on GitHub**](link-to-the-coding file)
+
 
 ## 👥 Authors & Team
 
