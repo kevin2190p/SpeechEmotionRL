@@ -17,7 +17,7 @@
 ---
 
 ### 3. Unveiling Patterns in Movies and TV Shows on Netflix: A Clustering-Based Analysis 
-* </> [**Explore the Project on GitHub**](link-to-the-coding file)
+* </> [**Explore the Project on GitHub**](https://github.com/kevin2190p/SpeechEmotionRL)
 
 
 ## 👥 Authors & Team
