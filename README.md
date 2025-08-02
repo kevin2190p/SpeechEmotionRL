@@ -14,7 +14,7 @@
 * ▶️ [**View the Live Demo**](https://drive.google.com/file/d/1dFlT0v4VTIN3uF0onxyX5e0yoZrdxX3z/view?usp=drive_link)
 * 📽️ [**View the Slides**](https://github.com/kevin2190p/Speech_Emotion-and-Smart_IrriGO/blob/main/Smart%20Irrigation%20System/Smart_IrriGO%20slides.pptx.pdf)
 * 🖼️ [**View the Poster (PDF)**](https://drive.google.com/file/d/1N38Viq3QLI0iC8O_z8MspNFPdfB-NRgx/view?usp=drive_link)
-* </> [**Explore the Project on GitHub**](https://github.com/kevin2190p/SpeechEmotionRL)
+* </> [**Explore the Project on GitHub**](https://github.com/kevin2190p/Speech_Emotion-and-Smart_IrriGO/tree/main/Smart%20Irrigation%20System)
 
 ---
 
