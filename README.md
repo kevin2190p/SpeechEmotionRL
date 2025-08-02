@@ -1,6 +1,6 @@
 # 🌐 Project Hub
 
-### Project business card
+### [Project business card](https://github.com/kevin2190p/Speech_Emotion-and-Smart_IrriGO/blob/main/Speech_Emotion_Recognition/Project%20Business%20Card.pdf)
 
 ### 1. Adaptive Speech Emotion Recognition via Reinforcement Learning
 * ▶️ [**View the Live Demo**](https://drive.google.com/file/d/17rmNZwmWLskcx-rQ4crFgactJSqYY_TC/view?usp=sharing)
