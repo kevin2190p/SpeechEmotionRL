@@ -9,11 +9,12 @@
 * </> [**Explore the Project on GitHub**](https://github.com/kevin2190p/SpeechEmotionRL)
 
 ---
+### [Project business card](https://github.com/kevin2190p/Speech_Emotion-and-Smart_IrriGO/blob/main/Smart%20Irrigation%20System/Project%20business%20card%20-%20finalised.pdf)
 
 ### 2. Smart_IrriGO: Simulation-Based Reinforcement Learning for Climate-Variable Irrigation Optimisation and Water-Use Efficiency in Corn Production
-* ▶️ [**View the Live Demo**](https://drive.google.com/file/d/1dFlT0v4VTIN3uF0onxyX5e0yoZrdxX3z/view?usp=drive_link)
+* ▶️ [**View the Live Demo**](https://github.com/kevin2190p/Speech_Emotion-and-Smart_IrriGO/blob/main/Smart%20Irrigation%20System/Smart_IrriGo%20video.mp4)
 * 📽️ [**View the Slides**](https://github.com/kevin2190p/Speech_Emotion-and-Smart_IrriGO/blob/main/Smart%20Irrigation%20System/Smart_IrriGO%20slides.pptx.pdf)
-* 🖼️ [**View the Poster (PDF)**](https://drive.google.com/file/d/1N38Viq3QLI0iC8O_z8MspNFPdfB-NRgx/view?usp=drive_link)
+* 🖼️ [**View the Poster (PDF)**](https://github.com/kevin2190p/Speech_Emotion-and-Smart_IrriGO/blob/main/Smart%20Irrigation%20System/Smart_IrriGO%20poster%20-%20finalised.pdf)
 * </> [**Explore the Project on GitHub**](https://github.com/kevin2190p/Speech_Emotion-and-Smart_IrriGO/tree/main/Smart%20Irrigation%20System)
 
 ---
