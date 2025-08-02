@@ -10,8 +10,8 @@
 ---
 
 ### 2. Smart_IrriGO: Simulation-Based Reinforcement Learning for Climate-Variable Irrigation Optimisation and Water-Use Efficiency in Corn Production
-* ▶️ [**View the Live Demo**](link-to-your-demo)
-* 🖼️ [**View the Poster (PDF)**](https://github.com/mingzheYeoh/Intelligent_Irrigation_System/blob/main/Irrigation%20System%20Poster.pdf)
+* ▶️ [**View the Live Demo**](https://drive.google.com/file/d/1dFlT0v4VTIN3uF0onxyX5e0yoZrdxX3z/view?usp=drive_link)
+* 🖼️ [**View the Poster (PDF)**](https://drive.google.com/file/d/1N38Viq3QLI0iC8O_z8MspNFPdfB-NRgx/view?usp=drive_link)
 * </> [**Explore the Project on GitHub**](https://github.com/mingzheYeoh/Intelligent_Irrigation_System)
 
 ---
