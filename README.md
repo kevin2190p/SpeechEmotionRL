@@ -20,7 +20,7 @@
 ---
 
 ### 3. Unveiling Patterns in Movies and TV Shows on Netflix: A Clustering-Based Analysis 
-* </> [**Explore the Project on GitHub**](https://github.com/kevin2190p/Speech_Emotion-and-Smart_IrriGO/tree/main/Netflix)
+* </> [**Explore the Project on GitHub**](https://github.com/kevin2190p/Speech_Emotion-and-Smart_IrriGO/tree/main/Netflix_Content_Clustering)
 
 
 ## 👥 Authors & Team
